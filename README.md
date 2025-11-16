@@ -9,7 +9,6 @@
         *   UX/UI design
         *   Front end & Back-end
 *   📖 What I'm studying:
-    *   Anything related to the E-Commerce websites back end development
     *   Best design practices & current trends
     *   NIST user authentication standard
     *   Password encryption practices
