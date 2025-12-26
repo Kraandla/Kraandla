@@ -3,7 +3,7 @@
 *   👋 Hey hey I'm Kevin!
 *   💻🖌️I'm an aspiring web developer and designer
 *   🛠️ Currently working on:
-    *   .NET E-Commerce website. More specifically:
+    *   .NET E-Commerce website (not publicly viewable). More specifically:
         *   Customer needs analysis
         *   Documentation
         *   UX/UI design
